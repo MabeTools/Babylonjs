@@ -1,5 +1,5 @@
 # Babylonjs
-Tests for internal Project
+Files for students Project in babylonjs
 
 Playground
 https://playground.babylonjs.com/
